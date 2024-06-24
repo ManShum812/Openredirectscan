@@ -9,7 +9,6 @@ Customizable: Easily modify the script to check for other domains or additional 
 Color-coded Output: The script outputs results in color, making it easy to distinguish between vulnerable and non-vulnerable URLs.
 
 # Installation
-1. Clone the repository:
 
 git clone https://github.com/ManShum812/Openredirectscan.git
 
