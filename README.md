@@ -33,6 +33,7 @@ Not Vulnerable: https://www.abc.com/logout_redirect.do?sysparm_url=https://evil.
 
 Not Vulnerable: https://www.hello.com/path3/sign_out?redirect_uri=https://evil.com
 
+![Screenshot 2024-06-24 115607](https://github.com/ManShum812/Openredirectscan/assets/43279996/cdbf258e-9174-4738-98bc-c770048d4714)
 
 
 # Contributing
