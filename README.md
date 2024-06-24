@@ -10,7 +10,9 @@ Color-coded Output: The script outputs results in color, making it easy to disti
 1. Clone the repository:
 
 git clone https://github.com/ManShum812/Openredirectscan.git
+
 cd Openredirectscan
+
 go build main.go
 
 # Running the Scanner
