@@ -36,4 +36,4 @@ Not Vulnerable: https://www.hello.com/path3/sign_out?redirect_uri=https://evil.c
 
 
 # Contributing
-Feel free to contribute to this project by opening issues or submitting pull requests. Let's make the web a safer place together!
+Feel free to contribute to this project by opening issues or submitting pull requests. If you have any ideas to make the tool better, let me know. Let's make the web a safer place together!
