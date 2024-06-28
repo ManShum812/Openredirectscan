@@ -35,5 +35,5 @@ Not Vulnerable: https://www.hello.com/path3/sign_out?redirect_uri=https://evil.c
 ![Screenshot 2024-06-24 115607](https://github.com/ManShum812/Openredirectscan/assets/43279996/cdbf258e-9174-4738-98bc-c770048d4714)
 
 
-# Contributing
-Feel free to contribute to this project by opening issues or submitting pull requests. If you have any ideas to make the tool better, let me know. Let's make the web a safer place together!
+# Get Involved
+Your contributions are welcome! You can help improve this project by opening issues or submitting pull requests. If you have any ideas to enhance the tool, please share them. Together, we can make the web a safer place!
